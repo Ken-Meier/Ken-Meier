@@ -16,4 +16,4 @@ Python-разработчик, интересуюсю Backend.
 ## 📍 Мой проекты:
 - [Python ИИ](https://github.com/Ken-Meier/Python-AI)
 - [Вебсайт](https://github.com/Ken-Meier/Python-Web-Project)
-- [Гитхаб Пародия](https://github.com/Ken-Meier/Github-Analog-Website)
+- [GitHub Пародия](https://github.com/Ken-Meier/Github-Analog-Website)
